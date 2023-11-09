@@ -1,0 +1,17 @@
+.bg-iso{
+    background-color: #e5e5f7;
+    background: radial-gradient(circle at center center, rgba(0, 213, 255, 0.2), rgba(255,255,255, 0.4)), repeating-radial-gradient(circle at center center,rgba(0, 213, 255,  0.2), rgba(0, 213, 255,  0.2), 11px, transparent 22px, transparent 11px);
+    background-blend-mode: multiply;
+}
+
+.text-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
